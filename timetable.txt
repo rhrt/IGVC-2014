@@ -1,0 +1,65 @@
+Timetable
+
+W2 Goals
+ -GPS IO
+ -Get vision code
+
+W3 Goals
+ -Start gmapping
+ -Finalize IMU purchase
+ -Test vision code with live images
+
+W4 Goals
+ -Full gmapping minus imu
+ -Unify code base
+
+W5 Goals
+ -image processing integrated
+ -motor controller driver built
+
+W6 Goals
+ -imu driver complete
+ -electronic systems complete
+
+W7 Goals
+ -robot fully functional
+ -integrate imu data to gmapping
+
+W8 Goals
+ -work on path planning algorithm
+
+W9 Goals
+ -work on path planning algorithm
+
+W10 Goals
+ -work on path planning algorithm
+
+S1 Goals
+ -complete path planning algorithm
+
+S2 Goals
+ -field test of robot
+
+S3 Goals
+ -debug and improve
+
+S4 Goals
+ -debug and improve
+
+S5 Goals
+ -debug and improve
+
+S6 Goals
+ -debug and improve
+
+S7 Goals
+ -debug and improve
+
+S8 Goals
+ -debug and improve
+
+S9 Goals
+ -debug and improve
+
+S10 Goals
+ -final product sans field tweaks
